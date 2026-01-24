@@ -49,11 +49,113 @@
   },
   "privacy": {
     "title": "Politique de confidentialité",
-    "lastUpdated": "Dernière mise à jour : Janvier 2026"
+    "lastUpdated": "Dernière mise à jour : Janvier 2026",
+    "intro": "The protection of your personal data is very important to us. This privacy policy informs you in accordance with Art. 13 and 14 GDPR about the type, scope and purpose of processing personal data when using the Alles Gut app and website.",
+    "section1Title": "1. Data Controller",
+    "section1Content": "The data controller within the meaning of the GDPR is: Hans-Martin Riegg",
+    "section2Title": "2. Data We Collect",
+    "section2Content": "When using Alles Gut, we collect and process the following personal data:",
+    "section2List": [
+      "Email address or phone number (for registration and login)",
+      "Display name (optional, freely chosen by you)",
+      "Check-in timestamps and interval settings",
+      "Device token for push notifications",
+      "Invitation links and relationships to emergency contacts",
+      "Technical data (IP address, device type, app version) for error analysis"
+    ],
+    "section3Title": "3. Legal Basis for Processing",
+    "section3Content": "The processing of your data is based on the following legal grounds:",
+    "section3List": [
+      "Contract performance (Art. 6(1)(b) GDPR) - for providing the service",
+      "Legitimate interests (Art. 6(1)(f) GDPR) - for security and error analysis",
+      "Consent (Art. 6(1)(a) GDPR) - for push notifications"
+    ],
+    "section4Title": "4. Data Security",
+    "section4Content": "Your data is protected with state-of-the-art security measures:",
+    "section4List": [
+      "Zero-Knowledge End-to-end encryption (AES-256-CBC). Even we cannot access your data.",
+      "Secure transmission of all data via TLS/HTTPS",
+      "Encrypted storage: We have no technical means to decrypt your personal information.",
+      "Regular security audits",
+      "Access restrictions based on the principle of least privilege"
+    ],
+    "section5Title": "5. Purpose of Data Processing",
+    "section5Content": "We process your data exclusively for the following purposes:",
+    "section5List": [
+      "Providing check-in functionality and managing your account",
+      "Automatic notification of your emergency contacts when check-ins are missed",
+      "Sending reminder and status notifications",
+      "Authentication and securing your account",
+      "Technical troubleshooting and improving the service"
+    ],
+    "section6Title": "6. Data Sharing",
+    "section6Content": "Your data is not sold or shared for advertising purposes. Transfer only occurs:",
+    "section6List": [
+      "To your self-selected emergency contacts (only display name and check-in status)",
+      "To data processors under Art. 28 GDPR: Resend (email delivery, USA, EU Standard Contractual Clauses), Expo (push notifications, USA, EU Standard Contractual Clauses)",
+      "To authorities when legally required"
+    ],
+    "section7Title": "7. Your Rights",
+    "section7Content": "Under the GDPR, you have the following rights:",
+    "section7List": [
+      "Access (Art. 15) - Export your data directly in the app",
+      "Rectification (Art. 16) - Change your data in settings",
+      "Erasure (Art. 17) - Delete account in the app, all data is permanently deleted",
+      "Restriction of processing (Art. 18)",
+      "Data portability (Art. 20) - Export in JSON format",
+      "Objection (Art. 21)",
+      "Withdrawal of consent at any time with effect for the future",
+      "Complaint to a supervisory authority (Art. 77)"
+    ],
+    "section8Title": "8. Data Retention",
+    "section8Content": "Your data is stored as long as your account is active. When you delete your account, all personal data is permanently deleted within 30 days. Check-in histories are automatically anonymized after 90 days.",
+    "section9Title": "9. Cookies and Tracking",
+    "section9Content": "The Alles Gut app and website do not use tracking cookies or third-party analytics tools. Only technically necessary data is stored.",
+    "section10Title": "10. Contact",
+    "section10Content": "For questions about data protection or to exercise your rights, you can reach us at:"
   },
   "terms": {
     "title": "Conditions d'utilisation",
-    "lastUpdated": "Dernière mise à jour : Janvier 2026"
+    "lastUpdated": "Dernière mise à jour : Janvier 2026",
+    "intro": "These Terms of Service govern the use of the Alles Gut app and related services. By registering and using the app, you accept these terms.",
+    "section1Title": "1. Scope and Contract Formation",
+    "section1Content": "These terms apply to all users of the Alles Gut app. The contract is formed upon successful registration. Alles Gut is an app for regular life signs (check-ins). Users can check in at self-selected intervals. If a check-in is missed, the registered emergency contacts are automatically notified by email.",
+    "section2Title": "2. Requirements for Use",
+    "section2Content": "The following requirements apply for using Alles Gut:",
+    "section2List": [
+      "Minimum age of 16 years (minors require parental consent)",
+      "Valid email address or phone number for verification",
+      "Smartphone with iOS or Android operating system",
+      "Internet connection for using core features"
+    ],
+    "section3Title": "3. Service Description and Costs",
+    "section3Content": "The basic features of Alles Gut are free to use. These include: check-in function, up to 5 emergency contacts, push notifications, and email notifications to contacts. We reserve the right to offer paid premium features in the future. These will be clearly marked and require separate consent.",
+    "section4Title": "4. User Responsibilities",
+    "section4Content": "As a user, you are responsible for:",
+    "section4List": [
+      "Providing correct and current data during registration",
+      "Obtaining explicit consent from your emergency contacts before adding them",
+      "Regularly performing check-ins according to your chosen interval",
+      "Keeping your login credentials secure",
+      "Complying with applicable laws when using the service"
+    ],
+    "section5Title": "5. Limitation of Liability",
+    "section5Content": "Alles Gut is a communication tool and not a substitute for professional emergency services (911, 112). We accept no liability for:",
+    "section5List": [
+      "Delayed, undelivered, or incorrect notifications due to technical issues, network outages, or server problems",
+      "Actions or omissions of your emergency contacts after receiving a notification",
+      "Damages arising from use or non-use of the app, unless caused by intentional or grossly negligent conduct on our part",
+      "Data loss due to device defects or operating system updates",
+      "Content or actions of third parties"
+    ],
+    "section6Title": "6. Availability and Maintenance",
+    "section6Content": "We strive for high service availability but cannot guarantee 100% uptime. Planned maintenance will be announced in advance when possible. In case of unplanned outages, we work to restore service as quickly as possible.",
+    "section7Title": "7. Changes to Terms",
+    "section7Content": "We reserve the right to change these terms with reasonable notice. Significant changes will be announced in the app at least 14 days before taking effect. Continued use after the changes take effect constitutes acceptance of the new terms.",
+    "section8Title": "8. Termination and Account Deletion",
+    "section8Content": "You can delete your account at any time without giving reasons in the app settings. All your data will be permanently removed. We reserve the right to suspend or delete accounts for serious violations of these terms.",
+    "section9Title": "9. Final Provisions",
+    "section9Content": "The law of the Federal Republic of Germany applies, excluding the UN Convention on Contracts for the International Sale of Goods. If individual provisions are invalid, the validity of the remaining provisions remains unaffected. Place of jurisdiction for merchants is Germany."
   },
   "imprint": {
     "title": "Mentions légales",
@@ -63,6 +165,11 @@
     "disclaimer": "Avertissement",
     "disclaimerContent": "Le contenu de ce site a été créé avec le plus grand soin. Cependant, nous ne pouvons garantir l'exactitude, l'exhaustivité et l'actualité du contenu.",
     "copyright": "Droits d'auteur",
-    "copyrightContent": "Le contenu et les œuvres créés par les opérateurs du site sur ces pages sont soumis au droit d'auteur allemand."
+    "copyrightContent": "Le contenu et les œuvres créés par les opérateurs du site sur ces pages sont soumis au droit d'auteur allemand.",
+    "representedBy": "Represented by",
+    "linksTitle": "Liability for Links",
+    "linksContent": "Our offer contains links to external websites of third parties, on whose contents we have no influence. We cannot accept any liability for these external contents.",
+    "disputeResolution": "Dispute Resolution",
+    "disputeResolutionContent": "The European Commission provides a platform for online dispute resolution (OS): https://ec.europa.eu/consumers/odr/. We are not willing or obliged to participate in dispute resolution proceedings before a consumer arbitration board."
   }
 }
