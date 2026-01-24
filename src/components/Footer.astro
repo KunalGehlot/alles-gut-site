@@ -1,5 +1,5 @@
 ---
-import { type Lang, getLocalizedPath } from '../i18n';
+import { type Lang } from '../i18n';
 
 interface Props {
   t: any;
@@ -7,15 +7,21 @@ interface Props {
 }
 
 const { t, lang } = Astro.props;
+
+// Legal pages: German canonical, English available
+// All other languages link to German (legally binding)
+const privacyPath = lang === 'en' ? '/en/privacy/' : '/datenschutz/';
+const termsPath = lang === 'en' ? '/en/terms/' : '/agb/';
+const imprintPath = lang === 'en' ? '/en/imprint/' : '/impressum/';
 ---
 
 <footer>
   <div class="container">
     <div class="footer-content">
       <div class="footer-links">
-        <a href={getLocalizedPath('/datenschutz/', lang)}>{t.footer.privacy}</a>
-        <a href={getLocalizedPath('/agb/', lang)}>{t.footer.terms}</a>
-        <a href={getLocalizedPath('/impressum/', lang)}>{t.footer.imprint}</a>
+        <a href={privacyPath}>{t.footer.privacy}</a>
+        <a href={termsPath}>{t.footer.terms}</a>
+        <a href={imprintPath}>{t.footer.imprint}</a>
       </div>
       <div class="footer-bottom">
         <span class="made-in-germany">

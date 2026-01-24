@@ -26,7 +26,9 @@ export type Lang = keyof typeof languages;
 
 export const defaultLang: Lang = 'de';
 
-const translations = { de, en, fr, es, it, pt, cs, pl, ja, ko } as const;
+// Using 'any' to allow flexible access to translation keys
+// since not all languages have complete translations for legal pages
+const translations: Record<Lang, any> = { de, en, fr, es, it, pt, cs, pl, ja, ko };
 
 export function getLangFromUrl(url: URL): Lang {
   const [, lang] = url.pathname.split('/');
@@ -34,7 +36,7 @@ export function getLangFromUrl(url: URL): Lang {
   return defaultLang;
 }
 
-export function useTranslations(lang: Lang) {
+export function useTranslations(lang: Lang): any {
   return translations[lang] || translations[defaultLang];
 }
 
