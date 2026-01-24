@@ -76,7 +76,7 @@ a:hover { opacity: 0.8; }
   cursor: pointer;
   transition: all 0.2s;
 }
-.btn-primary { background: var(--color-primary); color: white; }
+.btn-primary { background: var(--color-primary); color: #000000; } /* Accessibility: Black text ensures > 12:1 contrast ratio against the green background */
 .btn-primary:hover { background: var(--color-primary-dark); opacity: 1; }
 
 header {
