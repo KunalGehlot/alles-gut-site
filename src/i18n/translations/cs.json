@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Alles Gut - Vaše digitální znamení života",
+    "description": "Aplikace pro osobní bezpečnost. Pravidelnými check-iny dáváte svým blízkým klid."
+  },
+  "nav": {
+    "features": "Funkce",
+    "about": "O nás",
+    "download": "Stáhnout"
+  },
+  "hero": {
+    "tagline": "Vaše digitální znamení života",
+    "description": "Alles Gut je vaše aplikace pro osobní bezpečnost. Pravidelnými check-iny dáváte svým blízkým klid - a jsou automaticky upozorněni, pokud se neozvete.",
+    "downloadApp": "Stáhnout aplikaci"
+  },
+  "features": {
+    "title": "Funkce",
+    "secureCheckIns": "Bezpečné check-iny",
+    "secureCheckInsDesc": "Jednoduché potvrzení jedním klepnutím. Vaše digitální znamení života.",
+    "emergencyContacts": "Nouzové kontakty",
+    "emergencyContactsDesc": "Až 5 důvěryhodných osob, které budou upozorněny.",
+    "encrypted": "End-to-end šifrování",
+    "encryptedDesc": "Vaše data zůstávají soukromá. Nejvyšší bezpečnostní standardy.",
+    "gdpr": "V souladu s GDPR",
+    "gdprDesc": "Plně v souladu s evropskými předpisy o ochraně údajů.",
+    "flexible": "Flexibilní intervaly",
+    "flexibleDesc": "Vyberte si mezi 24h, 48h, 72h nebo týdenními check-iny.",
+    "pause": "24h pauza",
+    "pauseDesc": "Pozastavte check-iny, když jste zaneprázdněni. Přísně omezeno na 24 hodin."
+  },
+  "download": {
+    "title": "Stáhnout nyní",
+    "description": "Dostupné pro iOS a Android. Zdarma.",
+    "appStore": "App Store",
+    "playStore": "Google Play",
+    "comingSoon": "Již brzy"
+  },
+  "team": {
+    "title": "Náš tým",
+    "description": "Vytvořeno s vášní v Německu",
+    "cofounder": "Spoluzakladatel"
+  },
+  "footer": {
+    "privacy": "Zásady ochrany osobních údajů",
+    "terms": "Podmínky služby",
+    "imprint": "Tiráž",
+    "madeInGermany": "Made in Germany",
+    "copyright": "© 2025 Alles Gut. Všechna práva vyhrazena."
+  },
+  "privacy": {
+    "title": "Zásady ochrany osobních údajů",
+    "lastUpdated": "Poslední aktualizace: Leden 2025"
+  },
+  "terms": {
+    "title": "Podmínky služby",
+    "lastUpdated": "Poslední aktualizace: Leden 2025"
+  },
+  "imprint": {
+    "title": "Tiráž",
+    "responsible": "Informace podle § 5 TMG",
+    "contact": "Kontakt",
+    "email": "E-mail",
+    "disclaimer": "Vyloučení odpovědnosti",
+    "disclaimerContent": "Obsah těchto webových stránek byl vytvořen s maximální péčí. Nemůžeme však zaručit přesnost, úplnost a aktuálnost obsahu.",
+    "copyright": "Autorská práva",
+    "copyrightContent": "Obsah a díla vytvořená provozovateli stránek na těchto stránkách podléhají německému autorskému právu."
+  }
+}

@@ -1,0 +1,51 @@
+---
+import '../styles/global.css';
+import { languages, type Lang, defaultLang, getLocalizedPath } from '../i18n';
+
+interface Props {
+  title: string;
+  description: string;
+  lang?: Lang;
+}
+
+const { title, description, lang = defaultLang } = Astro.props;
+const currentPath = Astro.url.pathname;
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#34C759" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="canonical" href={`https://allesgut.app${currentPath}`} />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={`https://allesgut.app${currentPath}`} />
+    <meta property="og:image" content="https://allesgut.app/og-image.png" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+
+    <!-- Alternate language links -->
+    {Object.keys(languages).map((l) => (
+      <link
+        rel="alternate"
+        hreflang={l}
+        href={`https://allesgut.app${l === defaultLang ? '' : `/${l}`}`}
+      />
+    ))}
+
+    <title>{title}</title>
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

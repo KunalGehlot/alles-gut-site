@@ -1,0 +1,33 @@
+---
+import { type Lang, getLocalizedPath } from '../i18n';
+
+interface Props {
+  t: any;
+  lang: Lang;
+}
+
+const { t, lang } = Astro.props;
+---
+
+<footer>
+  <div class="container">
+    <div class="footer-content">
+      <div class="footer-links">
+        <a href={getLocalizedPath('/datenschutz/', lang)}>{t.footer.privacy}</a>
+        <a href={getLocalizedPath('/agb/', lang)}>{t.footer.terms}</a>
+        <a href={getLocalizedPath('/impressum/', lang)}>{t.footer.imprint}</a>
+      </div>
+      <div class="footer-bottom">
+        <span class="made-in-germany">
+          <span class="germany-flag">
+            <span class="black"></span>
+            <span class="red"></span>
+            <span class="gold"></span>
+          </span>
+          {t.footer.madeInGermany}
+        </span>
+        <span class="footer-copyright">{t.footer.copyright}</span>
+      </div>
+    </div>
+  </div>
+</footer>

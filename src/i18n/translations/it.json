@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Alles Gut - Il tuo segno di vita digitale",
+    "description": "L'app di sicurezza personale. Con check-in regolari, rassicuri i tuoi cari."
+  },
+  "nav": {
+    "features": "Funzionalità",
+    "about": "Chi siamo",
+    "download": "Scarica"
+  },
+  "hero": {
+    "tagline": "Il tuo segno di vita digitale",
+    "description": "Alles Gut è la tua app di sicurezza personale. Con check-in regolari, rassicuri i tuoi cari - e vengono automaticamente avvisati se non ti fai vivo.",
+    "downloadApp": "Scarica l'app"
+  },
+  "features": {
+    "title": "Funzionalità",
+    "secureCheckIns": "Check-in sicuri",
+    "secureCheckInsDesc": "Conferma semplice con un tocco. Il tuo segno di vita digitale.",
+    "emergencyContacts": "Contatti di emergenza",
+    "emergencyContactsDesc": "Fino a 5 persone fidate che saranno avvisate.",
+    "encrypted": "Crittografia end-to-end",
+    "encryptedDesc": "I tuoi dati rimangono privati. I più alti standard di sicurezza.",
+    "gdpr": "Conforme al GDPR",
+    "gdprDesc": "Pienamente conforme alle normative europee sulla protezione dei dati.",
+    "flexible": "Intervalli flessibili",
+    "flexibleDesc": "Scegli tra check-in di 24h, 48h, 72h o settimanali.",
+    "pause": "Pausa di 24h",
+    "pauseDesc": "Metti in pausa i check-in quando sei occupato. Strettamente limitato a 24 ore."
+  },
+  "download": {
+    "title": "Scarica ora",
+    "description": "Disponibile per iOS e Android. Gratuito.",
+    "appStore": "App Store",
+    "playStore": "Google Play",
+    "comingSoon": "Prossimamente"
+  },
+  "team": {
+    "title": "Il nostro team",
+    "description": "Sviluppato con passione in Germania",
+    "cofounder": "Co-fondatore"
+  },
+  "footer": {
+    "privacy": "Informativa sulla privacy",
+    "terms": "Termini di servizio",
+    "imprint": "Note legali",
+    "madeInGermany": "Made in Germany",
+    "copyright": "© 2025 Alles Gut. Tutti i diritti riservati."
+  },
+  "privacy": {
+    "title": "Informativa sulla privacy",
+    "lastUpdated": "Ultimo aggiornamento: Gennaio 2025"
+  },
+  "terms": {
+    "title": "Termini di servizio",
+    "lastUpdated": "Ultimo aggiornamento: Gennaio 2025"
+  },
+  "imprint": {
+    "title": "Note legali",
+    "responsible": "Informazioni ai sensi del § 5 TMG",
+    "contact": "Contatto",
+    "email": "E-mail",
+    "disclaimer": "Esclusione di responsabilità",
+    "disclaimerContent": "I contenuti di questo sito web sono stati creati con la massima cura. Tuttavia, non possiamo garantire l'accuratezza, la completezza e l'attualità dei contenuti.",
+    "copyright": "Diritti d'autore",
+    "copyrightContent": "I contenuti e le opere creati dagli operatori del sito su queste pagine sono soggetti alla legge tedesca sul diritto d'autore."
+  }
+}

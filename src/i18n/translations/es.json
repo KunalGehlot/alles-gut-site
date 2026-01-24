@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Alles Gut - Tu señal de vida digital",
+    "description": "La aplicación de seguridad personal. Con check-ins regulares, tranquilizas a tus seres queridos."
+  },
+  "nav": {
+    "features": "Funciones",
+    "about": "Nosotros",
+    "download": "Descargar"
+  },
+  "hero": {
+    "tagline": "Tu señal de vida digital",
+    "description": "Alles Gut es tu aplicación de seguridad personal. Con check-ins regulares, tranquilizas a tus seres queridos, y son notificados automáticamente si no te reportas.",
+    "downloadApp": "Descargar app"
+  },
+  "features": {
+    "title": "Funciones",
+    "secureCheckIns": "Check-ins seguros",
+    "secureCheckInsDesc": "Confirmación simple con un toque. Tu señal de vida digital.",
+    "emergencyContacts": "Contactos de emergencia",
+    "emergencyContactsDesc": "Hasta 5 personas de confianza que serán notificadas.",
+    "encrypted": "Cifrado de extremo a extremo",
+    "encryptedDesc": "Tus datos permanecen privados. Los más altos estándares de seguridad.",
+    "gdpr": "Cumple con RGPD",
+    "gdprDesc": "Totalmente compatible con las regulaciones europeas de protección de datos.",
+    "flexible": "Intervalos flexibles",
+    "flexibleDesc": "Elige entre check-ins de 24h, 48h, 72h o semanales.",
+    "pause": "Pausa de 24h",
+    "pauseDesc": "Pausa los check-ins cuando estés ocupado. Estrictamente limitado a 24 horas."
+  },
+  "download": {
+    "title": "Descargar ahora",
+    "description": "Disponible para iOS y Android. Gratis.",
+    "appStore": "App Store",
+    "playStore": "Google Play",
+    "comingSoon": "Próximamente"
+  },
+  "team": {
+    "title": "Nuestro equipo",
+    "description": "Desarrollado con pasión en Alemania",
+    "cofounder": "Cofundador"
+  },
+  "footer": {
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "imprint": "Aviso legal",
+    "madeInGermany": "Made in Germany",
+    "copyright": "© 2025 Alles Gut. Todos los derechos reservados."
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "lastUpdated": "Última actualización: Enero 2025"
+  },
+  "terms": {
+    "title": "Términos de servicio",
+    "lastUpdated": "Última actualización: Enero 2025"
+  },
+  "imprint": {
+    "title": "Aviso legal",
+    "responsible": "Información según § 5 TMG",
+    "contact": "Contacto",
+    "email": "Correo electrónico",
+    "disclaimer": "Descargo de responsabilidad",
+    "disclaimerContent": "El contenido de este sitio web ha sido creado con el mayor cuidado. Sin embargo, no podemos garantizar la exactitud, integridad y actualidad del contenido.",
+    "copyright": "Derechos de autor",
+    "copyrightContent": "El contenido y las obras creadas por los operadores del sitio en estas páginas están sujetos a la ley de derechos de autor alemana."
+  }
+}

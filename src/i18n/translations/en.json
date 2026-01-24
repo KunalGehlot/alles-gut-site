@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "title": "Alles Gut - Your digital sign of life",
+    "description": "The personal safety app. With regular check-ins, you give your loved ones peace of mind."
+  },
+  "nav": {
+    "features": "Features",
+    "about": "About",
+    "download": "Download"
+  },
+  "hero": {
+    "tagline": "Your digital sign of life",
+    "description": "Alles Gut is your personal safety app. With regular check-ins, you give your loved ones peace of mind - and they are automatically notified if you don't check in.",
+    "downloadApp": "Download App"
+  },
+  "features": {
+    "title": "Features",
+    "secureCheckIns": "Secure Check-ins",
+    "secureCheckInsDesc": "Simple confirmation with one tap. Your digital sign of life.",
+    "emergencyContacts": "Emergency Contacts",
+    "emergencyContactsDesc": "Up to 5 trusted people who will be notified.",
+    "encrypted": "End-to-end encrypted",
+    "encryptedDesc": "Your data stays private. Highest security standards.",
+    "gdpr": "GDPR compliant",
+    "gdprDesc": "Fully compliant with European data protection regulations.",
+    "flexible": "Flexible Intervals",
+    "flexibleDesc": "Choose between 24h, 48h, 72h or weekly check-ins.",
+    "pause": "24h Pause",
+    "pauseDesc": "Pause check-ins when you're busy. Strictly limited to 24 hours."
+  },
+  "download": {
+    "title": "Download Now",
+    "description": "Available for iOS and Android. Free.",
+    "appStore": "App Store",
+    "playStore": "Google Play",
+    "comingSoon": "Coming Soon"
+  },
+  "team": {
+    "title": "Our Team",
+    "description": "Built with passion in Germany",
+    "cofounder": "Co-Founder"
+  },
+  "footer": {
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "imprint": "Imprint",
+    "madeInGermany": "Made in Germany",
+    "copyright": "© 2025 Alles Gut. All rights reserved."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: January 2025",
+    "intro": "The protection of your personal data is very important to us. This privacy policy informs you about the type, scope and purpose of processing personal data when using the Alles Gut app.",
+    "section1Title": "1. Data Controller",
+    "section1Content": "The data controller is:",
+    "section2Title": "2. Data We Collect",
+    "section2Content": "When using Alles Gut, we collect the following data:",
+    "section2List": [
+      "Email address or phone number (for login)",
+      "Display name (optional, chosen by you)",
+      "Check-in timestamps",
+      "Push notification token (for notifications)",
+      "Invitation links for emergency contacts"
+    ],
+    "section3Title": "3. How We Protect Your Data",
+    "section3Content": "Your data is protected with state-of-the-art security measures:",
+    "section3List": [
+      "End-to-end encryption (AES-256-CBC)",
+      "Secure transmission via HTTPS",
+      "Encrypted storage of sensitive data",
+      "Regular security audits"
+    ],
+    "section4Title": "4. Purpose of Data Processing",
+    "section4Content": "We process your data exclusively for the following purposes:",
+    "section4List": [
+      "Providing check-in functionality",
+      "Notifying your emergency contacts of missed check-ins",
+      "Sending reminder notifications",
+      "Authentication and account security"
+    ],
+    "section5Title": "5. Data Sharing",
+    "section5Content": "Your data is not sold to third parties. Sharing only occurs:",
+    "section5List": [
+      "With your self-selected emergency contacts (only display name and check-in status)",
+      "With technical service providers (e.g., email delivery, push notifications) under data processing agreements"
+    ],
+    "section6Title": "6. Your Rights",
+    "section6Content": "You have the following rights regarding your data:",
+    "section6List": [
+      "Access to stored data (data export in the app)",
+      "Correction of inaccurate data",
+      "Deletion of your data (account deletion in the app)",
+      "Withdrawal of consent",
+      "Complaint to a supervisory authority"
+    ],
+    "section7Title": "7. Data Retention",
+    "section7Content": "Your data is stored as long as your account is active. When you delete your account, all data is permanently deleted.",
+    "section8Title": "8. Contact",
+    "section8Content": "For privacy questions, you can reach us at:"
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: January 2025",
+    "intro": "These terms of service govern the use of the Alles Gut app. By using the app, you accept these terms.",
+    "section1Title": "1. Service Description",
+    "section1Content": "Alles Gut is an app for regular life signs (check-ins). Users can check in at set intervals. If a check-in is missed, the registered emergency contacts are automatically notified.",
+    "section2Title": "2. Requirements for Use",
+    "section2Content": "For using Alles Gut:",
+    "section2List": [
+      "You must be at least 16 years old",
+      "You need a valid email address or phone number",
+      "You are responsible for the security of your account"
+    ],
+    "section3Title": "3. Free Use",
+    "section3Content": "The basic features of Alles Gut are free. We reserve the right to offer paid additional features in the future.",
+    "section4Title": "4. User Responsibility",
+    "section4Content": "You are responsible for:",
+    "section4List": [
+      "The accuracy of the data you provide",
+      "Obtaining consent from your emergency contacts",
+      "Regular check-ins",
+      "The security of your access credentials"
+    ],
+    "section5Title": "5. Disclaimer",
+    "section5Content": "Alles Gut is a communication tool, not an emergency call system. We accept no liability for:",
+    "section5List": [
+      "Delayed or undelivered notifications",
+      "Technical failures or disruptions",
+      "Actions or omissions of emergency contacts",
+      "Damages arising from use or non-use of the app"
+    ],
+    "section6Title": "6. Availability",
+    "section6Content": "We strive for high availability but cannot guarantee it. Maintenance and technical problems may cause outages.",
+    "section7Title": "7. Changes",
+    "section7Content": "We reserve the right to change these terms at any time. Significant changes will be announced in the app.",
+    "section8Title": "8. Termination",
+    "section8Content": "You can delete your account at any time in the app settings. We reserve the right to suspend accounts that violate these terms.",
+    "section9Title": "9. Applicable Law",
+    "section9Content": "German law applies. Place of jurisdiction is Germany."
+  },
+  "imprint": {
+    "title": "Imprint",
+    "responsible": "Information according to § 5 TMG",
+    "contact": "Contact",
+    "email": "Email",
+    "disclaimer": "Disclaimer",
+    "disclaimerContent": "The contents of this website have been created with the greatest care. However, we cannot guarantee the accuracy, completeness and timeliness of the content.",
+    "copyright": "Copyright",
+    "copyrightContent": "The content and works created by the site operators on these pages are subject to German copyright law."
+  }
+}

@@ -1,0 +1,29 @@
+---
+interface Props {
+  t: any;
+}
+
+const { t } = Astro.props;
+
+const team = [
+  { name: 'Hans-Martin', initials: 'HM' },
+  { name: 'Arjit Chauhan', initials: 'AC' },
+  { name: 'Kunal Gehlot', initials: 'KG' },
+];
+---
+
+<section class="section team-section" id="team">
+  <div class="container">
+    <h2 class="section-title">{t.team.title}</h2>
+    <p style="text-align: center; margin-top: -24px; margin-bottom: 24px;">{t.team.description}</p>
+    <div class="team-grid">
+      {team.map((member) => (
+        <div class="team-member">
+          <div class="team-avatar">{member.initials}</div>
+          <h4>{member.name}</h4>
+          <p>{t.team.cofounder}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

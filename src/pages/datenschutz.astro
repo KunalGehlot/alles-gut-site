@@ -1,0 +1,68 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { useTranslations, defaultLang } from '../i18n';
+
+const lang = defaultLang;
+const t = useTranslations(lang);
+---
+
+<Layout title={`${t.privacy.title} - Alles Gut`} description={t.meta.description} lang={lang}>
+  <Header t={t} lang={lang} />
+  <main class="legal-content">
+    <div class="content-container">
+      <h1>{t.privacy.title}</h1>
+      <p><em>{t.privacy.lastUpdated}</em></p>
+
+      <p>{t.privacy.intro}</p>
+
+      <h2>{t.privacy.section1Title}</h2>
+      <p>{t.privacy.section1Content}</p>
+      <p>
+        Alles Gut<br />
+        E-Mail: <a href="mailto:privacy@allesgut.app">privacy@allesgut.app</a>
+      </p>
+
+      <h2>{t.privacy.section2Title}</h2>
+      <p>{t.privacy.section2Content}</p>
+      <ul>
+        {t.privacy.section2List.map((item: string) => <li>{item}</li>)}
+      </ul>
+
+      <h2>{t.privacy.section3Title}</h2>
+      <p>{t.privacy.section3Content}</p>
+      <ul>
+        {t.privacy.section3List.map((item: string) => <li>{item}</li>)}
+      </ul>
+
+      <h2>{t.privacy.section4Title}</h2>
+      <p>{t.privacy.section4Content}</p>
+      <ul>
+        {t.privacy.section4List.map((item: string) => <li>{item}</li>)}
+      </ul>
+
+      <h2>{t.privacy.section5Title}</h2>
+      <p>{t.privacy.section5Content}</p>
+      <ul>
+        {t.privacy.section5List.map((item: string) => <li>{item}</li>)}
+      </ul>
+
+      <h2>{t.privacy.section6Title}</h2>
+      <p>{t.privacy.section6Content}</p>
+      <ul>
+        {t.privacy.section6List.map((item: string) => <li>{item}</li>)}
+      </ul>
+
+      <h2>{t.privacy.section7Title}</h2>
+      <p>{t.privacy.section7Content}</p>
+
+      <h2>{t.privacy.section8Title}</h2>
+      <p>{t.privacy.section8Content}</p>
+      <p>
+        E-Mail: <a href="mailto:privacy@allesgut.app">privacy@allesgut.app</a>
+      </p>
+    </div>
+  </main>
+  <Footer t={t} lang={lang} />
+</Layout>

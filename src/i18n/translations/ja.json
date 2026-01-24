@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Alles Gut - あなたのデジタル生存確認",
+    "description": "パーソナルセーフティアプリ。定期的なチェックインで、大切な人に安心を届けます。"
+  },
+  "nav": {
+    "features": "機能",
+    "about": "私たちについて",
+    "download": "ダウンロード"
+  },
+  "hero": {
+    "tagline": "あなたのデジタル生存確認",
+    "description": "Alles Gutはあなたのパーソナルセーフティアプリです。定期的なチェックインで大切な人に安心を届け、チェックインがない場合は自動的に通知されます。",
+    "downloadApp": "アプリをダウンロード"
+  },
+  "features": {
+    "title": "機能",
+    "secureCheckIns": "安全なチェックイン",
+    "secureCheckInsDesc": "ワンタップで簡単確認。あなたのデジタル生存確認。",
+    "emergencyContacts": "緊急連絡先",
+    "emergencyContactsDesc": "最大5人の信頼できる人に通知されます。",
+    "encrypted": "エンドツーエンド暗号化",
+    "encryptedDesc": "あなたのデータはプライベートのまま。最高のセキュリティ基準。",
+    "gdpr": "GDPR準拠",
+    "gdprDesc": "欧州のデータ保護規制に完全準拠。",
+    "flexible": "柔軟な間隔",
+    "flexibleDesc": "24時間、48時間、72時間、または週間チェックインから選択。",
+    "pause": "24時間一時停止",
+    "pauseDesc": "忙しい時はチェックインを一時停止。厳密に24時間に制限。"
+  },
+  "download": {
+    "title": "今すぐダウンロード",
+    "description": "iOSとAndroidで利用可能。無料。",
+    "appStore": "App Store",
+    "playStore": "Google Play",
+    "comingSoon": "近日公開"
+  },
+  "team": {
+    "title": "チーム",
+    "description": "ドイツで情熱を込めて開発",
+    "cofounder": "共同創設者"
+  },
+  "footer": {
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "imprint": "法的情報",
+    "madeInGermany": "Made in Germany",
+    "copyright": "© 2025 Alles Gut. All rights reserved."
+  },
+  "privacy": {
+    "title": "プライバシーポリシー",
+    "lastUpdated": "最終更新: 2025年1月"
+  },
+  "terms": {
+    "title": "利用規約",
+    "lastUpdated": "最終更新: 2025年1月"
+  },
+  "imprint": {
+    "title": "法的情報",
+    "responsible": "§ 5 TMGに基づく情報",
+    "contact": "連絡先",
+    "email": "メール",
+    "disclaimer": "免責事項",
+    "disclaimerContent": "このウェブサイトのコンテンツは細心の注意を払って作成されています。ただし、コンテンツの正確性、完全性、最新性を保証することはできません。",
+    "copyright": "著作権",
+    "copyrightContent": "このサイトのオペレーターによって作成されたコンテンツと作品は、ドイツの著作権法の対象となります。"
+  }
+}

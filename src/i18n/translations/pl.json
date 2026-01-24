@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Alles Gut - Twój cyfrowy znak życia",
+    "description": "Aplikacja bezpieczeństwa osobistego. Regularnymi meldunkami dajesz swoim bliskim spokój."
+  },
+  "nav": {
+    "features": "Funkcje",
+    "about": "O nas",
+    "download": "Pobierz"
+  },
+  "hero": {
+    "tagline": "Twój cyfrowy znak życia",
+    "description": "Alles Gut to Twoja osobista aplikacja bezpieczeństwa. Regularnymi meldunkami dajesz swoim bliskim spokój - i są automatycznie powiadamiani, jeśli się nie odezwiesz.",
+    "downloadApp": "Pobierz aplikację"
+  },
+  "features": {
+    "title": "Funkcje",
+    "secureCheckIns": "Bezpieczne meldunki",
+    "secureCheckInsDesc": "Proste potwierdzenie jednym dotknięciem. Twój cyfrowy znak życia.",
+    "emergencyContacts": "Kontakty awaryjne",
+    "emergencyContactsDesc": "Do 5 zaufanych osób, które zostaną powiadomione.",
+    "encrypted": "Szyfrowanie end-to-end",
+    "encryptedDesc": "Twoje dane pozostają prywatne. Najwyższe standardy bezpieczeństwa.",
+    "gdpr": "Zgodność z RODO",
+    "gdprDesc": "W pełni zgodne z europejskimi przepisami o ochronie danych.",
+    "flexible": "Elastyczne interwały",
+    "flexibleDesc": "Wybierz między meldunkami 24h, 48h, 72h lub tygodniowymi.",
+    "pause": "24h pauza",
+    "pauseDesc": "Wstrzymaj meldunki, gdy jesteś zajęty. Ściśle ograniczone do 24 godzin."
+  },
+  "download": {
+    "title": "Pobierz teraz",
+    "description": "Dostępne na iOS i Android. Za darmo.",
+    "appStore": "App Store",
+    "playStore": "Google Play",
+    "comingSoon": "Wkrótce"
+  },
+  "team": {
+    "title": "Nasz zespół",
+    "description": "Stworzone z pasją w Niemczech",
+    "cofounder": "Współzałożyciel"
+  },
+  "footer": {
+    "privacy": "Polityka prywatności",
+    "terms": "Warunki usługi",
+    "imprint": "Impressum",
+    "madeInGermany": "Made in Germany",
+    "copyright": "© 2025 Alles Gut. Wszelkie prawa zastrzeżone."
+  },
+  "privacy": {
+    "title": "Polityka prywatności",
+    "lastUpdated": "Ostatnia aktualizacja: Styczeń 2025"
+  },
+  "terms": {
+    "title": "Warunki usługi",
+    "lastUpdated": "Ostatnia aktualizacja: Styczeń 2025"
+  },
+  "imprint": {
+    "title": "Impressum",
+    "responsible": "Informacje zgodnie z § 5 TMG",
+    "contact": "Kontakt",
+    "email": "E-mail",
+    "disclaimer": "Wyłączenie odpowiedzialności",
+    "disclaimerContent": "Treść tej strony internetowej została stworzona z największą starannością. Nie możemy jednak zagwarantować dokładności, kompletności i aktualności treści.",
+    "copyright": "Prawa autorskie",
+    "copyrightContent": "Treści i dzieła stworzone przez operatorów strony na tych stronach podlegają niemieckiemu prawu autorskiemu."
+  }
+}

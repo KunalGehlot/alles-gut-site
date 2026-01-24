@@ -1,0 +1,37 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { useTranslations, defaultLang } from '../i18n';
+
+const lang = defaultLang;
+const t = useTranslations(lang);
+---
+
+<Layout title={`${t.imprint.title} - Alles Gut`} description={t.meta.description} lang={lang}>
+  <Header t={t} lang={lang} />
+  <main class="legal-content">
+    <div class="content-container">
+      <h1>{t.imprint.title}</h1>
+
+      <h2>{t.imprint.responsible}</h2>
+      <p>
+        Alles Gut<br />
+        Hans-Martin, Arjit Chauhan, Kunal Gehlot<br />
+        Deutschland
+      </p>
+
+      <h2>{t.imprint.contact}</h2>
+      <p>
+        {t.imprint.email}: <a href="mailto:contact@allesgut.app">contact@allesgut.app</a>
+      </p>
+
+      <h2>{t.imprint.disclaimer}</h2>
+      <p>{t.imprint.disclaimerContent}</p>
+
+      <h2>{t.imprint.copyright}</h2>
+      <p>{t.imprint.copyrightContent}</p>
+    </div>
+  </main>
+  <Footer t={t} lang={lang} />
+</Layout>

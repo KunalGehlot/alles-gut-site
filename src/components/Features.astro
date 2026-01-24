@@ -1,0 +1,31 @@
+---
+interface Props {
+  t: any;
+}
+
+const { t } = Astro.props;
+
+const features = [
+  { icon: '✓', title: t.features.secureCheckIns, desc: t.features.secureCheckInsDesc },
+  { icon: '👥', title: t.features.emergencyContacts, desc: t.features.emergencyContactsDesc },
+  { icon: '🔒', title: t.features.encrypted, desc: t.features.encryptedDesc },
+  { icon: '🇪🇺', title: t.features.gdpr, desc: t.features.gdprDesc },
+  { icon: '⏱', title: t.features.flexible, desc: t.features.flexibleDesc },
+  { icon: '⏸', title: t.features.pause, desc: t.features.pauseDesc },
+];
+---
+
+<section class="section" id="features">
+  <div class="container">
+    <h2 class="section-title">{t.features.title}</h2>
+    <div class="feature-grid">
+      {features.map((feature) => (
+        <div class="feature-card">
+          <div class="feature-icon">{feature.icon}</div>
+          <h4>{feature.title}</h4>
+          <p>{feature.desc}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

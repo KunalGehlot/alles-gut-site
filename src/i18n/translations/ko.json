@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Alles Gut - 당신의 디지털 생존 신호",
+    "description": "개인 안전 앱. 정기적인 체크인으로 사랑하는 사람들에게 안심을 줍니다."
+  },
+  "nav": {
+    "features": "기능",
+    "about": "소개",
+    "download": "다운로드"
+  },
+  "hero": {
+    "tagline": "당신의 디지털 생존 신호",
+    "description": "Alles Gut은 당신의 개인 안전 앱입니다. 정기적인 체크인으로 사랑하는 사람들에게 안심을 주고, 체크인하지 않으면 자동으로 알림이 갑니다.",
+    "downloadApp": "앱 다운로드"
+  },
+  "features": {
+    "title": "기능",
+    "secureCheckIns": "안전한 체크인",
+    "secureCheckInsDesc": "한 번의 탭으로 간단하게 확인. 당신의 디지털 생존 신호.",
+    "emergencyContacts": "비상 연락처",
+    "emergencyContactsDesc": "최대 5명의 신뢰할 수 있는 사람에게 알림.",
+    "encrypted": "종단간 암호화",
+    "encryptedDesc": "데이터가 비공개로 유지됩니다. 최고 수준의 보안.",
+    "gdpr": "GDPR 준수",
+    "gdprDesc": "유럽 데이터 보호 규정을 완벽히 준수.",
+    "flexible": "유연한 간격",
+    "flexibleDesc": "24시간, 48시간, 72시간 또는 주간 체크인 중 선택.",
+    "pause": "24시간 일시정지",
+    "pauseDesc": "바쁠 때 체크인을 일시정지. 엄격히 24시간으로 제한."
+  },
+  "download": {
+    "title": "지금 다운로드",
+    "description": "iOS와 Android에서 사용 가능. 무료.",
+    "appStore": "App Store",
+    "playStore": "Google Play",
+    "comingSoon": "곧 출시"
+  },
+  "team": {
+    "title": "팀 소개",
+    "description": "독일에서 열정을 담아 개발",
+    "cofounder": "공동 창립자"
+  },
+  "footer": {
+    "privacy": "개인정보 처리방침",
+    "terms": "이용약관",
+    "imprint": "법적 고지",
+    "madeInGermany": "Made in Germany",
+    "copyright": "© 2025 Alles Gut. All rights reserved."
+  },
+  "privacy": {
+    "title": "개인정보 처리방침",
+    "lastUpdated": "최종 업데이트: 2025년 1월"
+  },
+  "terms": {
+    "title": "이용약관",
+    "lastUpdated": "최종 업데이트: 2025년 1월"
+  },
+  "imprint": {
+    "title": "법적 고지",
+    "responsible": "§ 5 TMG에 따른 정보",
+    "contact": "연락처",
+    "email": "이메일",
+    "disclaimer": "면책 조항",
+    "disclaimerContent": "이 웹사이트의 콘텐츠는 최대한 주의를 기울여 작성되었습니다. 그러나 콘텐츠의 정확성, 완전성 및 최신성을 보장할 수 없습니다.",
+    "copyright": "저작권",
+    "copyrightContent": "사이트 운영자가 이 페이지에서 만든 콘텐츠와 작품은 독일 저작권법의 적용을 받습니다."
+  }
+}

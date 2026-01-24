@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "title": "Alles Gut - Dein digitales Lebenszeichen",
+    "description": "Die persönliche Sicherheits-App. Mit regelmäßigen Check-ins gibst du deinen Liebsten ein gutes Gefühl."
+  },
+  "nav": {
+    "features": "Funktionen",
+    "about": "Über uns",
+    "download": "Download"
+  },
+  "hero": {
+    "tagline": "Dein digitales Lebenszeichen",
+    "description": "Alles Gut ist deine persönliche Sicherheits-App. Mit regelmäßigen Check-ins gibst du deinen Liebsten ein gutes Gefühl - und sie werden automatisch benachrichtigt, wenn du dich nicht meldest.",
+    "downloadApp": "App herunterladen"
+  },
+  "features": {
+    "title": "Funktionen",
+    "secureCheckIns": "Sichere Check-ins",
+    "secureCheckInsDesc": "Einfache Bestätigung mit einem Tap. Dein digitales Lebenszeichen.",
+    "emergencyContacts": "Notfallkontakte",
+    "emergencyContactsDesc": "Bis zu 5 vertrauenswürdige Personen, die benachrichtigt werden.",
+    "encrypted": "Ende-zu-Ende verschlüsselt",
+    "encryptedDesc": "Deine Daten bleiben privat. Höchste Sicherheitsstandards.",
+    "gdpr": "DSGVO-konform",
+    "gdprDesc": "Vollständig konform mit europäischen Datenschutzrichtlinien.",
+    "flexible": "Flexible Intervalle",
+    "flexibleDesc": "Wähle zwischen 24h, 48h, 72h oder wöchentlichen Check-ins.",
+    "pause": "24h Pause",
+    "pauseDesc": "Pausiere Check-ins wenn du beschäftigt bist. Strikt auf 24 Stunden begrenzt."
+  },
+  "download": {
+    "title": "Jetzt herunterladen",
+    "description": "Verfügbar für iOS und Android. Kostenlos.",
+    "appStore": "App Store",
+    "playStore": "Google Play",
+    "comingSoon": "Bald verfügbar"
+  },
+  "team": {
+    "title": "Unser Team",
+    "description": "Entwickelt mit Leidenschaft in Deutschland",
+    "cofounder": "Mitgründer"
+  },
+  "footer": {
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "imprint": "Impressum",
+    "madeInGermany": "Made in Germany",
+    "copyright": "© 2025 Alles Gut. Alle Rechte vorbehalten."
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "lastUpdated": "Stand: Januar 2025",
+    "intro": "Der Schutz deiner persönlichen Daten ist uns sehr wichtig. Diese Datenschutzerklärung informiert dich über die Art, den Umfang und den Zweck der Verarbeitung personenbezogener Daten bei der Nutzung der Alles Gut App.",
+    "section1Title": "1. Verantwortlicher",
+    "section1Content": "Verantwortlich für die Datenverarbeitung ist:",
+    "section2Title": "2. Welche Daten wir erheben",
+    "section2Content": "Bei der Nutzung von Alles Gut erheben wir folgende Daten:",
+    "section2List": [
+      "E-Mail-Adresse oder Telefonnummer (für die Anmeldung)",
+      "Anzeigename (optional, von dir gewählt)",
+      "Check-in-Zeitstempel",
+      "Push-Notification-Token (für Benachrichtigungen)",
+      "Einladungslinks für Notfallkontakte"
+    ],
+    "section3Title": "3. Wie wir deine Daten schützen",
+    "section3Content": "Deine Daten werden mit modernsten Sicherheitsmaßnahmen geschützt:",
+    "section3List": [
+      "Ende-zu-Ende-Verschlüsselung (AES-256-CBC)",
+      "Sichere Übertragung über HTTPS",
+      "Verschlüsselte Speicherung sensibler Daten",
+      "Regelmäßige Sicherheitsaudits"
+    ],
+    "section4Title": "4. Zweck der Datenverarbeitung",
+    "section4Content": "Wir verarbeiten deine Daten ausschließlich für folgende Zwecke:",
+    "section4List": [
+      "Bereitstellung der Check-in-Funktionalität",
+      "Benachrichtigung deiner Notfallkontakte bei versäumten Check-ins",
+      "Versand von Erinnerungsbenachrichtigungen",
+      "Authentifizierung und Kontosicherheit"
+    ],
+    "section5Title": "5. Weitergabe von Daten",
+    "section5Content": "Deine Daten werden nicht an Dritte verkauft. Eine Weitergabe erfolgt nur:",
+    "section5List": [
+      "An deine selbst gewählten Notfallkontakte (nur Anzeigename und Check-in-Status)",
+      "An technische Dienstleister (z.B. E-Mail-Versand, Push-Benachrichtigungen) im Rahmen der Auftragsverarbeitung"
+    ],
+    "section6Title": "6. Deine Rechte",
+    "section6Content": "Du hast folgende Rechte bezüglich deiner Daten:",
+    "section6List": [
+      "Auskunft über gespeicherte Daten (Datenexport in der App)",
+      "Berichtigung unrichtiger Daten",
+      "Löschung deiner Daten (Kontolöschung in der App)",
+      "Widerruf der Einwilligung",
+      "Beschwerde bei einer Aufsichtsbehörde"
+    ],
+    "section7Title": "7. Speicherdauer",
+    "section7Content": "Deine Daten werden gespeichert, solange dein Konto aktiv ist. Bei Kontolöschung werden alle Daten unwiderruflich gelöscht.",
+    "section8Title": "8. Kontakt",
+    "section8Content": "Bei Fragen zum Datenschutz erreichst du uns unter:"
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Stand: Januar 2025",
+    "intro": "Diese Nutzungsbedingungen regeln die Nutzung der Alles Gut App. Mit der Nutzung der App akzeptierst du diese Bedingungen.",
+    "section1Title": "1. Beschreibung des Dienstes",
+    "section1Content": "Alles Gut ist eine App für regelmäßige Lebenszeichen (Check-ins). Nutzer können sich in festgelegten Intervallen melden. Wenn ein Check-in verpasst wird, werden die hinterlegten Notfallkontakte automatisch benachrichtigt.",
+    "section2Title": "2. Nutzungsvoraussetzungen",
+    "section2Content": "Für die Nutzung von Alles Gut gilt:",
+    "section2List": [
+      "Du musst mindestens 16 Jahre alt sein",
+      "Du benötigst eine gültige E-Mail-Adresse oder Telefonnummer",
+      "Du bist für die Sicherheit deines Kontos verantwortlich"
+    ],
+    "section3Title": "3. Kostenfreie Nutzung",
+    "section3Content": "Die Grundfunktionen von Alles Gut sind kostenlos. Wir behalten uns vor, in Zukunft kostenpflichtige Zusatzfunktionen anzubieten.",
+    "section4Title": "4. Verantwortung des Nutzers",
+    "section4Content": "Du bist verantwortlich für:",
+    "section4List": [
+      "Die Richtigkeit der von dir angegebenen Daten",
+      "Die Einholung der Einwilligung deiner Notfallkontakte",
+      "Die regelmäßige Durchführung von Check-ins",
+      "Die Sicherheit deiner Zugangsdaten"
+    ],
+    "section5Title": "5. Haftungsausschluss",
+    "section5Content": "Alles Gut ist ein Hilfsmittel zur Kommunikation, kein Notrufsystem. Wir übernehmen keine Haftung für:",
+    "section5List": [
+      "Verspätete oder nicht zugestellte Benachrichtigungen",
+      "Technische Ausfälle oder Störungen",
+      "Handlungen oder Unterlassungen der Notfallkontakte",
+      "Schäden, die aus der Nutzung oder Nichtnutzung der App entstehen"
+    ],
+    "section6Title": "6. Verfügbarkeit",
+    "section6Content": "Wir bemühen uns um eine hohe Verfügbarkeit, können diese aber nicht garantieren. Wartungsarbeiten und technische Probleme können zu Ausfällen führen.",
+    "section7Title": "7. Änderungen",
+    "section7Content": "Wir behalten uns vor, diese Nutzungsbedingungen jederzeit zu ändern. Wesentliche Änderungen werden in der App angekündigt.",
+    "section8Title": "8. Kündigung",
+    "section8Content": "Du kannst dein Konto jederzeit in den App-Einstellungen löschen. Wir behalten uns vor, Konten bei Verstößen gegen diese Bedingungen zu sperren.",
+    "section9Title": "9. Anwendbares Recht",
+    "section9Content": "Es gilt deutsches Recht. Gerichtsstand ist Deutschland."
+  },
+  "imprint": {
+    "title": "Impressum",
+    "responsible": "Angaben gemäß § 5 TMG",
+    "contact": "Kontakt",
+    "email": "E-Mail",
+    "disclaimer": "Haftungsausschluss",
+    "disclaimerContent": "Die Inhalte dieser Website wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.",
+    "copyright": "Urheberrecht",
+    "copyrightContent": "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht."
+  }
+}

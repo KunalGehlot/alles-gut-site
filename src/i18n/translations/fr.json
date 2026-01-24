@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Alles Gut - Votre signe de vie numérique",
+    "description": "L'application de sécurité personnelle. Avec des check-ins réguliers, vous rassurez vos proches."
+  },
+  "nav": {
+    "features": "Fonctionnalités",
+    "about": "À propos",
+    "download": "Télécharger"
+  },
+  "hero": {
+    "tagline": "Votre signe de vie numérique",
+    "description": "Alles Gut est votre application de sécurité personnelle. Avec des check-ins réguliers, vous rassurez vos proches - et ils sont automatiquement notifiés si vous ne vous manifestez pas.",
+    "downloadApp": "Télécharger l'app"
+  },
+  "features": {
+    "title": "Fonctionnalités",
+    "secureCheckIns": "Check-ins sécurisés",
+    "secureCheckInsDesc": "Confirmation simple d'un tap. Votre signe de vie numérique.",
+    "emergencyContacts": "Contacts d'urgence",
+    "emergencyContactsDesc": "Jusqu'à 5 personnes de confiance qui seront notifiées.",
+    "encrypted": "Chiffrement de bout en bout",
+    "encryptedDesc": "Vos données restent privées. Standards de sécurité les plus élevés.",
+    "gdpr": "Conforme RGPD",
+    "gdprDesc": "Entièrement conforme aux réglementations européennes sur la protection des données.",
+    "flexible": "Intervalles flexibles",
+    "flexibleDesc": "Choisissez entre des check-ins de 24h, 48h, 72h ou hebdomadaires.",
+    "pause": "Pause de 24h",
+    "pauseDesc": "Mettez en pause les check-ins quand vous êtes occupé. Strictement limité à 24 heures."
+  },
+  "download": {
+    "title": "Télécharger maintenant",
+    "description": "Disponible pour iOS et Android. Gratuit.",
+    "appStore": "App Store",
+    "playStore": "Google Play",
+    "comingSoon": "Bientôt disponible"
+  },
+  "team": {
+    "title": "Notre équipe",
+    "description": "Développé avec passion en Allemagne",
+    "cofounder": "Co-fondateur"
+  },
+  "footer": {
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "imprint": "Mentions légales",
+    "madeInGermany": "Made in Germany",
+    "copyright": "© 2025 Alles Gut. Tous droits réservés."
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour : Janvier 2025"
+  },
+  "terms": {
+    "title": "Conditions d'utilisation",
+    "lastUpdated": "Dernière mise à jour : Janvier 2025"
+  },
+  "imprint": {
+    "title": "Mentions légales",
+    "responsible": "Informations conformément au § 5 TMG",
+    "contact": "Contact",
+    "email": "E-mail",
+    "disclaimer": "Avertissement",
+    "disclaimerContent": "Le contenu de ce site a été créé avec le plus grand soin. Cependant, nous ne pouvons garantir l'exactitude, l'exhaustivité et l'actualité du contenu.",
+    "copyright": "Droits d'auteur",
+    "copyrightContent": "Le contenu et les œuvres créés par les opérateurs du site sur ces pages sont soumis au droit d'auteur allemand."
+  }
+}
