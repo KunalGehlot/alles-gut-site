@@ -6,9 +6,9 @@ interface Props {
 const { t } = Astro.props;
 
 const team = [
-  { name: 'Hans-Martin', initials: 'HM' },
-  { name: 'Arjit Chauhan', initials: 'AC' },
-  { name: 'Kunal Gehlot', initials: 'KG' },
+  { name: 'Hans-Martin', image: '/team/hans-martin.svg' },
+  { name: 'Arjit Chauhan', image: '/team/arjit-chauhan.svg' },
+  { name: 'Kunal Gehlot', image: '/team/kunal-gehlot.svg' },
 ];
 ---
 
@@ -19,7 +19,13 @@ const team = [
     <div class="team-grid">
       {team.map((member) => (
         <div class="team-member">
-          <div class="team-avatar">{member.initials}</div>
+          <img
+            src={member.image}
+            alt={member.name}
+            class="team-avatar-img"
+            width="120"
+            height="120"
+          />
           <h4>{member.name}</h4>
           <p>{t.team.cofounder}</p>
         </div>
@@ -27,3 +33,13 @@ const team = [
     </div>
   </div>
 </section>
+
+<style>
+  .team-avatar-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 16px;
+    object-fit: cover;
+  }
+</style>
