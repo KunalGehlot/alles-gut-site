@@ -73,9 +73,9 @@
     "section4Title": "4. Datensicherheit",
     "section4Content": "Deine Daten werden mit modernsten Sicherheitsmaßnahmen geschützt:",
     "section4List": [
-      "Ende-zu-Ende-Verschlüsselung sensibler Daten (AES-256-CBC)",
+      "Zero-Knowledge Ende-zu-Ende-Verschlüsselung (AES-256-CBC). Selbst wir können deine Daten nicht einsehen.",
       "Sichere Übertragung aller Daten über TLS/HTTPS",
-      "Verschlüsselte Speicherung in der Datenbank",
+      "Verschlüsselte Speicherung: Wir haben keine technische Möglichkeit, deine persönlichen Informationen zu entschlüsseln.",
       "Regelmäßige Sicherheitsüberprüfungen",
       "Zugriffsbeschränkungen nach dem Prinzip der minimalen Berechtigung"
     ],

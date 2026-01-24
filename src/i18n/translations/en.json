@@ -73,9 +73,9 @@
     "section4Title": "4. Data Security",
     "section4Content": "Your data is protected with state-of-the-art security measures:",
     "section4List": [
-      "End-to-end encryption of sensitive data (AES-256-CBC)",
+      "Zero-Knowledge End-to-end encryption (AES-256-CBC). Even we cannot access your data.",
       "Secure transmission of all data via TLS/HTTPS",
-      "Encrypted storage in the database",
+      "Encrypted storage: We have no technical means to decrypt your personal information.",
       "Regular security audits",
       "Access restrictions based on the principle of least privilege"
     ],
