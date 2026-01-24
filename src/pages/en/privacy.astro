@@ -21,6 +21,8 @@ const t = useTranslations(lang);
       <p>{t.privacy.section1Content}</p>
       <p>
         Alles Gut<br />
+        Hans-Martin, Arjit Chauhan, Kunal Gehlot<br />
+        Germany<br />
         Email: <a href="mailto:privacy@allesgut.app">privacy@allesgut.app</a>
       </p>
 
@@ -56,9 +58,18 @@ const t = useTranslations(lang);
 
       <h2>{t.privacy.section7Title}</h2>
       <p>{t.privacy.section7Content}</p>
+      <ul>
+        {t.privacy.section7List.map((item: string) => <li>{item}</li>)}
+      </ul>
 
       <h2>{t.privacy.section8Title}</h2>
       <p>{t.privacy.section8Content}</p>
+
+      <h2>{t.privacy.section9Title}</h2>
+      <p>{t.privacy.section9Content}</p>
+
+      <h2>{t.privacy.section10Title}</h2>
+      <p>{t.privacy.section10Content}</p>
       <p>
         Email: <a href="mailto:privacy@allesgut.app">privacy@allesgut.app</a>
       </p>
