@@ -4,7 +4,7 @@ Official website for the Alles Gut app - your digital sign of life.
 
 ## Overview
 
-This is the landing page and legal documentation website for [allesgut.app](https://allesgut.app). It provides:
+This is the landing page and legal documentation website for [alles-gut.app](https://alles-gut.app). It provides:
 
 - Landing page with app features and download links
 - Privacy Policy (Datenschutzerklärung)
@@ -67,8 +67,8 @@ Proprietary - All rights reserved. See [LICENSE](LICENSE) for details.
 
 ## Contact
 
-- Website: [allesgut.app](https://allesgut.app)
-- Email: <contact@allesgut.app>
+- Website: [alles-gut.app](https://alles-gut.app)
+- Email: <contact@alles-gut.app>
 
 ---
 
