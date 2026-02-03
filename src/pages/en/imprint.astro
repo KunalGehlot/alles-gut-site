@@ -14,23 +14,22 @@ const t = useTranslations(lang);
     <div class="content-container">
       <h1>{t.imprint.title}</h1>
 
-      <h2>{t.imprint.responsible}</h2>
-      <p>
-        Alles Gut<br />
-        Hans-Martin, Arjit Chauhan, Kunal Gehlot<br />
-        Germany
-      </p>
+      <h2>{t.imprint.project}</h2>
+      <p>{t.imprint.projectContent}</p>
 
       <h2>{t.imprint.contact}</h2>
       <p>
         {t.imprint.email}: <a href="mailto:contact@alles-gut.app">contact@alles-gut.app</a>
       </p>
 
-      <h2>{t.imprint.disclaimer}</h2>
-      <p>{t.imprint.disclaimerContent}</p>
+      <h2>{t.imprint.repository}</h2>
+      <p>{t.imprint.repositoryContent}</p>
+      <p>
+        <a href="https://github.com/nicegood123/alles-gut" target="_blank" rel="noopener noreferrer">github.com/nicegood123/alles-gut</a>
+      </p>
 
-      <h2>{t.imprint.copyright}</h2>
-      <p>{t.imprint.copyrightContent}</p>
+      <h2>{t.imprint.license}</h2>
+      <p>{t.imprint.licenseContent}</p>
     </div>
   </main>
   <Footer t={t} lang={lang} />
